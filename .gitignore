@@ -8,3 +8,8 @@
 **/tsconfig.json
 **/webpack.config.js
 **/dist
+!/Webpack/*/package.json
+!/Webpack/*/webpack.config.js
+
+
+
