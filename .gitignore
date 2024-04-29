@@ -10,6 +10,8 @@
 **/dist
 !/Webpack/*/package.json
 !/Webpack/*/webpack.config.js
+!/react_intro/*/*/*/webpack.config.js
+!/react_intro/*/*/package.json
 
 
 
